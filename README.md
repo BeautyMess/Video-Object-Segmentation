@@ -1,2 +1,2 @@
 # Video-Object-Segmentation
-Notes about problem of Video Object Segmentation
+Notes about the problem of Video Object Segmentation
