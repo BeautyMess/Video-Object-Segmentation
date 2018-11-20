@@ -1,4 +1,4 @@
-Papers and codes about the Video Object Segmentation
+Papers and code about the Video Object Segmentation
 ==
 
 |Paper Title|Paper Source|Code|Platform|
