@@ -1,7 +1,7 @@
-under construction
+Papers and codes about the Video Object Segmentation
 ==
 
-|Title|Source|Code|Platform|
+|Paper Title|Paper Source|Code|Platform|
 |:----:|:----|----:|----:|
 |Fast and Accurate Online Video Object Segmentation via Tracking Parts|CVPR 2018 Spotlight|[code](https://github.com/JingchunCheng/FAVOS)|Caffe|
 |Fast Video Object Segmentation by Reference-Guided Mask Propagation|CVPR 2018 Spotlight|[code](https://github.com/seoungwugoh/RGMP)|PyTorch|
